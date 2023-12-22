@@ -8,9 +8,9 @@
 # - Collin Arendsen (21-617-204)
 # - Gabriel Oget (22-610-893)
 # - Luca Drevermann
-# - Roksolana Malyniak
+# - (Roksolana Malyniak)
 # - Qishuangshuang Wang
-# - Yutaro Taue
+
 
 # In[1]:
 
